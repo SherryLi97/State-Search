@@ -1,5 +1,10 @@
 # mydemo
 
+## Prerequisite
+* [Get your own Google Map API Key](https://developers.google.com/maps).
+* Add it to public/index.html
+![image](https://user-images.githubusercontent.com/55163314/122595911-f6e89a00-d01d-11eb-8ebf-9de30fbe57ad.png)
+
 ## Project setup
 ```
 npm install
@@ -19,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
